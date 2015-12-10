@@ -1,0 +1,12 @@
+servers:
+    - address: ":80"
+redis:
+    host: "localhost"
+    port: 200
+    password: "somepassword"
+mongo:
+    url: "localhost"
+    database: "example"
+sendgrid:
+    username: "user"
+    key: "key"
